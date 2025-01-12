@@ -131,12 +131,13 @@ const About = () => {
     'PostgreSQL',
     'Node.js',
     'Redash',
-    'Grafan',
+    'Grafana',
     'Microservices',
     'QuickBooks Online Integration',
     'Xero Integration',
     'EHR Integration',
     'US HealthCare',
+    'AthenaHealth',
   ];
 
   return (

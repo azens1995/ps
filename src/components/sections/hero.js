@@ -66,8 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer who loves building large-scale web applications. Currently, I’m
-        focused integrating third-party accounting applications for Houzz Pro to sync accounting
-        data from{' '}
+        focused in extending software capability for Pro users to user accounting software for
+        seamless integration with{' '}
         <a href="https://houzz.com/" target="_blank" rel="noreferrer">
           Houzz
         </a>
