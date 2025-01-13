@@ -1,7 +1,7 @@
 ---
 date: '2019-12-09'
-title: 'Leapfrog'
-company: 'Leapfrog Technology'
+title: 'Lead Engineer'
+company: 'Leapfrog'
 location: 'Kathmandu, Nepal'
 range: '2019 - August 2023'
 url: 'https://lftechnology.com/'
